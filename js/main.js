@@ -246,10 +246,10 @@ function btnEq(){
     document.getElementById("an").value=answer;
 }
 
-/*function btnBackC(){
+function btnBackC(){
 
  var inBox= document.getElementById("in").value;
  
  
   
-}*/
+}
